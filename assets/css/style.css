@@ -1,0 +1,35 @@
+.start-page {
+
+    text-align: center;
+
+}
+
+
+.start-btn {
+
+    padding: 15px 36px;
+
+    background: rgb(74, 228, 74);
+
+    font-size: 20px;
+
+    font-weight: bold;
+
+    text-align: center;
+
+    border-radius: 12px;
+
+}
+
+.btn-div {
+
+    position: absolute;
+
+    text-align: center;
+
+    left: 45%;
+
+    top: 50%;
+
+}
+
